@@ -1,8 +1,4 @@
 i am in dev branch 
-
-
 hello
 how ru?/
-
-
 updating the file
