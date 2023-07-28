@@ -1,6 +1,9 @@
 hi, this file contains the DB connection logic..
 adding the extra line....
-hi how ru
+hi
+
+how ru
 
 higm.....updating this file....
 
+updating in development branch....
