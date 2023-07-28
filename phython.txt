@@ -2,3 +2,4 @@ hi hello how ru???
 
 in master branch...
 i am in master branch...1.
+updating in master branch in remote repo
